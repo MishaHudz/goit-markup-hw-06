@@ -726,8 +726,6 @@ a {
   fill: var(--main-white);
 }
 /* ///////////////////Modal infill///////////////////// */
-.form-btn {
-}
 
 .modal-titel {
   display: flex;
